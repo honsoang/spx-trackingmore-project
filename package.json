@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "trackingmore-sdk-nodejs": "^1.0.8"
+  }
+}
